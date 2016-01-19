@@ -1,2 +1,2 @@
 # PerlPractice
-Basic Perl programs for assignments given during Perl training at Symantec
+Basic Perl programs for assignments given during Perl training
